@@ -127,6 +127,7 @@ His work marks the moment cryptography became mathematical.
 
 This notebook rebuilds that moment.
 
+---
 ##MIT License
 
 Copyright (c) 2026 Rob Gravelle

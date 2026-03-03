@@ -83,7 +83,7 @@ Monte Carlo results (300 trials):
 
 ### IC distribution
 
-$$![IC histogram tradeoff](images/ic_hist_indicator_tradeoff.png)$$
+![IC histogram tradeoff](images/ic_hist_indicator_tradeoff.png)
 
 ---
 
@@ -129,10 +129,7 @@ This ensures sender/receiver synchronization.
 
 Measured IC difference:
 
-\[
-\Delta IC \approx 0.000002
-\]
-
+$$\Delta IC \approx 0.000002$$
 Operational safety can be added without materially weakening statistical resistance.
 
 ---
@@ -287,4 +284,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 SOFTWARE.
+
 

@@ -83,7 +83,7 @@ Monte Carlo results (300 trials):
 
 ### IC distribution
 
-![IC histogram tradeoff](images/ic_hist_indicator_tradeoff.png)
+$$![IC histogram tradeoff](images/ic_hist_indicator_tradeoff.png)$$
 
 ---
 
@@ -287,3 +287,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 SOFTWARE.
+

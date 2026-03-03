@@ -1,5 +1,11 @@
-# Leon Battista Alberti (1404–1472)  
+# Leon Battista Alberti (1404–1472)
 ## The Birth of Polyalphabetic Cryptography
+
+<p align="center">
+  <img src="images/alberti_portrait.jpg" width="300">
+</p>
+
+---
 
 ---
 
